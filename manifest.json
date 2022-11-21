@@ -1,20 +1,20 @@
 {
   "background_color": "#ffffff",
-  "description": "avocado-bubbles game in KaboomJS",
+  "description": "VAOA Game in KaboomJS",
   "dir": "ltr",
   "display": "minimal-ui",
   "display_override": [],
   "lang": "en",
-  "name": "avocado-bubbles",
+  "name": "VAOA Game",
   "orientation": "any",
   "prefer_related_applications": false,
   "related_applications": [],
   "scope": "/",
   "share_target": {},
-  "short_name": "avocado-bubbles",
+  "short_name": "VAOA Game",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "categories": ["games", "avocado"],
+  "categories": ["games", "VAOA", "leaves"],
   "screenshots": [
     {
       "src": "sprites/avocado-bubbles-screenshot-wide-1280x720.jpg",
@@ -26,14 +26,14 @@
   ],
   "icons": [
     {
-      "src": "sprites/avocado-bubbles-icon.png",
+      "src": "sprites/vaoa-logo.png",
       "type": "image/png",
       "sizes": "64x64"
     },
     {
-      "src": "sprites/avocado-bubbles-512.png",
+      "src": "sprites/vaoa-logo-150.png",
       "type": "image/png",
-      "sizes": "512x512",
+      "sizes": "150x150",
       "purpose": "any"
     }
   ],
