@@ -1,6 +1,6 @@
 # fly.toml file generated for avocado-o on 2022-05-29T07:58:59-04:00
 
-app = "avocado-bubbles"
+app = "VAOA Game"
 
 kill_signal = "SIGINT"
 kill_timeout = 5

@@ -3,7 +3,7 @@ import { Howl } from "howler"
 
 k = kaboom({
   "fullscreen": true, "startScene": "main",
-  "background": [125, 182, 235,],
+  "background": [51, 73, 78],
   touchToMouse: true,
 })
 
