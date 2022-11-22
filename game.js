@@ -4887,7 +4887,7 @@ vec4 frag(vec3 pos, vec2 uv, vec4 color, sampler2D tex) {
   k = no({
     "fullscreen": true,
     "startScene": "main",
-    "background": [125, 182, 235],
+    "background": [51, 73, 78],
     touchToMouse: true
   });
   loadPedit("bubble", "sprites/bubble.pedit");
